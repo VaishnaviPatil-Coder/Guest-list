@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgN78QOnFq3VLoRdqQN_Uq_QttpGKAv9mZ6w&usqp=CAU");
+    background-size: cover;
+}
+
+#button_sort{
+    display: none;
+}
+
+ol.guestlist>li
+{
+ padding-right: 35px;  
+
+}
